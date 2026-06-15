@@ -70,9 +70,8 @@
 📱 Weather App  
 📱 Notes App  
 📱 Calculator App  
-💻 Student Management System  
-💻 Portfolio Website  
-🤖 AI Chat Application  
+💻 Movie  recommendation app
+🤖Resumecraft AI  
 
 ---
 
