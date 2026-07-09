@@ -69,6 +69,7 @@
 
 📱sky_pulse_weather  
 💻 Movie  recommendation app
+✨resumecraft_ai
 🤖Resumecraft AI  
 
 ---
