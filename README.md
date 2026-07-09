@@ -67,9 +67,7 @@
 
 # 🚀 Featured Projects
 
-📱 Weather App  
-📱 Notes App  
-📱 Calculator App  
+📱sky_pulse_weather  
 💻 Movie  recommendation app
 🤖Resumecraft AI  
 
