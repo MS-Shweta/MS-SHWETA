@@ -47,7 +47,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=firebase,gcp,aws,figma,postman,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=firebase" />
 
 </p>
 
@@ -57,7 +57,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,flutter" />
+<img src="https://skillicons.dev/icons?i=flutter" />
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
